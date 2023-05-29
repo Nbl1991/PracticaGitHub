@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class DNI20 {
 
     public static void main(String[] args) {
+        //Esto es un comentario para probar el commit
          Scanner sc = new Scanner(System.in);
         System.out.println("Introduzca el número de su DNI.");
         int dni = sc.nextInt();
